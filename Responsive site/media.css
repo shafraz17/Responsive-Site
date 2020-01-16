@@ -1,0 +1,200 @@
+/*@media only screen and (max-device-width: 2560px) {
+    .pic{
+        width: auto;
+        height: 100%;
+    }
+
+    .all{
+        width: 103%;
+    }
+
+    .contact{
+        padding-left: 85%;
+        margin: 0%;
+    }
+
+    .mid{
+        top: 55%;
+        font-size: 160px;
+        padding-left: 5%;
+        text-align: center;
+    }
+
+   .content{
+       width: 1500px;
+   }
+
+   .large{
+       font-size: 30px!important
+   }
+
+   .tag{
+       font-size: 45px;
+   }
+
+   .navbar a{
+       font-size: 40px;
+   }
+
+   
+
+}*/
+
+@media only screen and (max-device-width: 1440px) {
+    .pic{
+        width: auto;
+        height: 100%;
+    }
+
+    .all{
+        width: 106%;
+    }
+
+    .navbar a{
+        font-size: 20px;
+    }
+
+    .tag{
+        font-size:25px;
+    }
+
+    .content{
+        width: 700px;
+    }
+
+    .contact{
+        padding-left: 85%;
+        margin: 0%;
+    }
+
+    .mid{
+        top: 55%;
+        font-size: 100px;
+        padding-left: 5%;
+        text-align: center;
+    }
+
+    .large {
+        font-size: 18px!important;
+    }
+
+}
+
+@media only screen and (max-device-width: 1024px) {
+
+
+    .all{
+        width: 136.2%;
+    }
+
+    .contact{
+        margin: 0px;
+        padding-left: 85%;
+    }
+
+    .pic{
+        width: auto;
+        height: 120%;
+    }
+
+    .mid{
+        top: 65%;
+        font-size: 100px;
+        padding-left: 30%;
+    }
+
+}
+
+
+
+
+
+@media only screen and (max-device-width: 425px){
+    .pic{
+        width: auto;
+        height: 70%;
+    }
+
+    .navbar a{
+        font-size: 35px;
+    }
+
+    .tag{
+        font-size: 40px;
+    }
+
+    .large{
+        font-size:38px!important;
+    }
+
+    .content{
+        width: 800px;
+    }
+
+    .mid{
+        top: 40%;
+        font-size: 130px;
+        text-align: center;
+    }
+
+    .contact{
+        padding-left: 70%;
+        margin: 0%;
+    }
+
+    .fb{
+        letter-spacing: 5px;
+    }
+    
+    .contact i{
+        letter-spacing: 20px;
+    }
+
+    
+} 
+
+@media only screen and (max-device-width: 320px){
+    .pic{
+        width: auto;
+        height: 10%;
+    }
+
+    .navbar a{
+        font-size: 45px;
+    }
+
+    .tag{
+        font-size: 48px;
+    }
+
+    .large{
+        font-size:36px!important;
+        
+    }
+
+    .content{
+        width: 900px;
+    }
+
+    .mid{
+        top: 40%;
+        font-size: 130px;
+        text-align: center;
+    }
+
+    .contact{
+        padding-left: 55%;
+        margin: 0%;
+        font-size: 16px;
+    }
+
+    .fb{
+        letter-spacing: 5px;
+    }
+    
+    .contact i{
+        letter-spacing: 20px;
+    }
+
+    
+} 
